@@ -15,6 +15,7 @@ namespace RevisionEmploye
         private DateTime _dateNaissance;
         private decimal _salaireAnnuel;
         private DateTime _entreeEnFonction;
+        private DateTime _entreeFonctionEXAMPLE;
 
         public string Matricule
         {
